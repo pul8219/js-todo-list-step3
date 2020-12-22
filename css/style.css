@@ -566,11 +566,6 @@ select.chip {
   padding: 0 5px;
 }
 
-.team-list-container .team-card-container a{
-  cursor: pointer;
-}
-
-
 .team-list-container .card .card-title {
   font-size: 20px;
   font-weight: bold;
